@@ -115,7 +115,7 @@ Add a Composer path repository to the host project:
     "repositories": [
         {
             "type": "path",
-            "url": "packages/pgs/laravel-ai-chatbot",
+            "url": "packages/laravel-ai-chatbot",
             "options": { "symlink": true }
         }
     ]
